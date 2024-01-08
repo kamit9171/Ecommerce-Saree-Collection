@@ -45,7 +45,8 @@ public class AppConfig {
 								"http://localhost:4200",
 								"https://shopwithzosh.vercel.app",
 								"https://ecommerce-angular-blue.vercel.app/",
-								"https://ecommerce-amit.netlify.app/"
+								"https://ecommerce-amit.netlify.app/",
+							         "kamit-ecommerce.netlify.app"
 								
 							)
 						);
